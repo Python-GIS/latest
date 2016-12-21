@@ -84,23 +84,25 @@ if "%1" == "html" (
 if "%1" == "gh-pages" (
 
     git checkout gh-pages
-    RD /S /Q build
     RD /S /Q _sources
     RD /S /Q _static
-    git checkout master data source docs make.bat Makefile
+    RD /S /Q _images
+    DEL *.*
+    git checkout master data source make.bat Makefile
     git reset HEAD
     make html
     # Ensure that images are rendered properly by building again
     make html
+    # Clean the repo
+    DEL make.bat
+    DEL Makefile
+    RD /S /Q data
     MOVE /Y docs\*.*
     MOVE /Y docs\_images
     MOVE /Y docs\_static
     MOVE /Y docs\_sources
     RD /S /Q docs
-    RD /S /Q data
-    DEL make.bat
-    DEL Makefile
-    DEL *.png
+    RD /S /Q source
     git add -A
     git commit -m "Generated gh-pages for `git log master -1 --pretty=short --abbrev-commit`"
     git push origin gh-pages
