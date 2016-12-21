@@ -2,6 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5355d541-ab85-4e3c-952b-2fa420e22575" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\.buildinfo" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\.nojekyll" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Exercise-1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Exercise-2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Exercise-3.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Exercise-4.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Exercise-5.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Exercise-7.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Final-assignment.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Installing_Anacondas_GIS.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson1-Geometric-Objects.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson1-Intro-Python-GIS.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson2-download-data.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson2-geopandas-basics.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson2-overview-pandas-geopandas.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson2-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson2-pandas-intro.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson3-geocoding.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson3-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson3-point-in-polygon.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson3-projections.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson3-spatial-join.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson3-table-join.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson4-download-data.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson4-geometric-operations.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson4-nearest-neighbour.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson4-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson4-reclassify.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson5-World-3D.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson5-download-data.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson5-interactive-map-bokeh.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson5-interactive-map-folium.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson5-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson5-share-on-github.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson5-static-maps.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson6-arcpy-script.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson6-arcpy.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson6-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson6-run-the-tool.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson6-toolbox.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson7-download.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson7-gdal-utilities.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson7-overview.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson7-read-raster-array.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson7-read-raster.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\Lesson8-network-analysis.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\License-terms.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\BoxZoom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Github-pages-activated.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Github-pages-repo-root.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Github-pages-settings.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Lesson3-point-in-polygon_16_0.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Pan.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Reset.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Save.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\Some_Global_text.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\WheelZoom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-create-toolbox.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-idle-location.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-idle-new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-idle.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-my-script.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-parameter-tab-lower.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-parameter-tab-upper.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-parameter-tab-whole.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-properties.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-python-console.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-raster-result.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-script-description.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-script-tool.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcgis-source.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\arcpy-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\conda_shapely_windows.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\corine-level3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\damselfish-simple-map.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\damselfish.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\docs-contents.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\github-pages-docs-folder.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\github-settings.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\google_query_conda.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\helsinki_grid_borders.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\helsinki_grid_borders_intersect.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\index-md.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\index_HTML.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\install_shapely.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\natural_breaks_pt_accessibility.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\population_points.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\projected.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\pt_time.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\small-big-lakes.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\static_map.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\suitable_areas.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\walk_distances.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\_images\wgs84.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\course-info.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\search.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\HY-Data\HENTENKA\KOODIT\Opetus\Python-GIS\latest\searchindex.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="latest.iws" />
@@ -123,7 +223,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
