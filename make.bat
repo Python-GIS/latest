@@ -84,12 +84,13 @@ if "%1" == "html" (
 if "%1" == "gh-pages" (
 
     git checkout gh-pages
-    if errorlevel 1 exit /b 1
 
+    if errorlevel 1 exit /b 1
+    # Continue only if branch switching worked
     RD /S /Q _sources
     RD /S /Q _static
     RD /S /Q _images
-    DEL *.*
+    DEL /Q *.*
     git checkout master data source make.bat Makefile
     git reset HEAD
     make html
