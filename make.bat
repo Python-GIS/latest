@@ -13,6 +13,8 @@ if NOT "%PAPER%" == "" (
 	set I18NSPHINXOPTS=-D latex_paper_size=%PAPER% %I18NSPHINXOPTS%
 )
 
+set GH_PAGES_SOURCES = source data Makefile make.bat
+
 if "%1" == "" goto help
 
 if "%1" == "help" (
