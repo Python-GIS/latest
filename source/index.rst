@@ -8,7 +8,7 @@ Welcome to Python-GIS pages!
 
 .. admonition:: Idea
 
-    Python has become one of the leading programming languages for doing data science and GIS. While there exist vast amount of documentation and resources
+    **Python** programming language has become one of the leading platforms for doing data science and GIS. While there exist vast amount of documentation and resources
     (+ books) for learning GIS using Python programming language, those resources are scattered around the web under different pages which makes learning GIS in Python harder than it should.
     The purpose of this site is to serve as a central place:
 
