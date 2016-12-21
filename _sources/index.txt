@@ -4,55 +4,56 @@
 Welcome to Python-GIS pages!
 ============================
 
-**Python-GIS** -pages is a centralized source of information that aims at teaching you how to do different GIS-related tasks in Python programming language.
+**Python-GIS** -site is a centralized source of information that aims at teaching you how to do different GIS-related tasks in Python programming language.
 
-The materials are divided into lessons where each lesson is a tutorial with specific topic(s) where the aim is to learn
-how to solve common GIS-related problems and tasks using Python tools. In the lessons we use only publicly available data which can be used and downloaded by anyone anywhere. In this course,
-we assume that you know the basics of Python programming. If Python is not familiar to you, we recommend to start with our earlier course that focuses on learning the basics of Python
-from `geo-python.github.io <https://geo-python.github.io>`_.
+.. admonition:: Manifest
 
-Course format
--------------
+    Python has become one of the leading programming languages for doing data science and GIS (the other popular one being R). While there exist vast amount of documentation and resources
+    (+ books) for learning GIS using Python programming language, those resources are scattered around the web under different pages which makes learning GIS in Python harder than it should.
+    The purpose of this site is to serve as a central place:
 
-The majority of this course will be spent in front of a computer learning to program in the Python language and working on exercises.
-During Teaching Period I, the Automating GIS processes and `Introduction to Quantitative Geology <https://github.com/Intro-Quantitative-Geology/Course-information>`_ courses met together and focused on
-`learning to program in Python <https://github.com/Python-for-geo-people/Course-information>`_. Previously, both these courses lacked sufficient time for students to properly learn the basic concepts of programming in Python.
+     - for finding information about:
 
-The computer exercises will focus on developing basic programming skills using the Python language and applying those skills to various GIS related problems.
-Typical exercises will involve a brief introduction followed by topical computer-based tasks. At the end of the exercises, you may be asked to submit answers
-to relevant questions, some related plots, and/or Python codes you have written or used. You are encouraged to discuss and work together with other students
-on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
+        + how to solve different GIS related tasks or problems using Python.
+
+        + how to start doing GIS in Python even without any earlier background knowledge about the matter.
+
+     - for sharing your knowledge about doing GIS in Python:
+
+        + we wish you welcome to share your knowledge on these pages about using Python for different GIS related tasks.
+
+        + We wish that the contributions would be in a tutorial format with open data, good instructive documentation, using openly available Python tools.
+
+    The site has a modern, intuitive and easily navigable Sphinx pages that makes learning more efficient and fun.
+
+    The origins of these pages are in Automating GIS processes -course given at the University of Helsinki, Finland. This Python-GIS site is however kept separate from that course to allow more content to be included under these pages than what fits to the curriculum of that course.
 
 .. admonition:: Open Access!
 
-    The course is **open for everyone**. The aim of this course is to share the knowledge and help people to get started with their journey for doing GIS more efficiently and in a reproducible manner
-    using Python programming.
+    These materials are **open for everyone**. The aim of this site is to share the knowledge and help people to get started with their journey for doing GIS more efficiently and in a reproducible manner
+    using Python programming. All the data used in these tutorials are also openly available for everyone.
 
-.. admonition:: Step by step instructions with cloud computing!
+.. admonition:: Step by step tutorials!
 
-    The materials are written in a way that you can follow them step by step exactly as they are written, as long as you use the cloud computing resources that
-    we provide for you (unfortunately **for Uni. Helsinki people** only). Read more about our cloud computing environment from `here <https://github.com/Python-for-geo-people/Lesson-1-Course-Environment/blob/master/Background/course-environment-components.md>`_.
-    If you work from your own computer, **you need to adjust the file paths to the data** accordingly.
+    The materials are tutorials written in a way that you can follow them step by step exactly as they are written, as long as you use the same operating system as is mentioned in the materials.
+    Working from your own computer, **you of course need to adjust the file paths to the data** accordingly.
 
-.. admonition:: For teachers
+.. admonition:: Use as you wish but share it!
 
-    If you would like to use these materials for your own teaching or develop them further, we highly support that.
+    If you would like to use these materials for your own purposes such as teaching or develop them further, we highly support that.
     Please read more about how to do it from `here <License-terms.html>`_.
 
+Idea
+----
 
-Course topics by week
----------------------
-See earlier materials from Period I `here <https://github.com/Python-for-geo-people/Course-information>`_.
+The materials are divided into lessons where each lesson is a tutorial with specific topic(s) where the aim is to learn
+how to solve common GIS-related problems and tasks using Python tools. In the lessons we use only publicly available data which can be used and downloaded by anyone anywhere.
+We assume that you know the basics of Python programming. If Python is not familiar to you, we recommend to start with our earlier course that focuses on learning the basics of Python
+from `geo-python.github.io <https://geo-python.github.io>`_, or learn from great online resources such as `Software Carpentry <https://software-carpentry.org/>`_ or `Code Academy <https://www.codecademy.com/>`_.
 
-The materials are divided into weekly sections that are published at these pages every Monday morning. Lessons are held with following schedule:
-
- * 31.10 - Lesson 1: GIS in Python; Spatial Data Model, Geometric Objects, Shapely
- * 07.11 - Lesson 2: Working with (Geo)DataFrames
- * 14.11 - Lesson 3: Geocoding and spatial queries
- * 21.11 - Lesson 4: Geometric operations, reclassifying data
- * 28.11 - Lesson 5: Visualization, static and interactive maps
- * 08.12 - Lesson 6: Using ArcGIS through Python (the arcpy-module)
- * 12.12 - Lesson 7: Raster data processing in Python
+In the materials the focus will be on developing programming skills using the Python programming language and applying those skills to various GIS related problems.
+There are also exercises for each lesson that aims at challenging you, so that you learn more efficiently.
+Typical exercises will involve a brief introduction followed by topical computer-based tasks.
 
 Contents
 --------
@@ -60,11 +61,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Course information
+   :caption: General information
 
    course-info
    Installing_Anacondas_GIS
    License-terms
+
 
 .. toctree::
    :maxdepth: 2
@@ -151,11 +153,9 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Final Assignment
+   :caption: Lesson 9
 
    Final-assignment
-
-
 
 Indices and tables
 ==================
