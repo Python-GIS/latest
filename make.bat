@@ -13,8 +13,6 @@ if NOT "%PAPER%" == "" (
 	set I18NSPHINXOPTS=-D latex_paper_size=%PAPER% %I18NSPHINXOPTS%
 )
 
-set GH_PAGES_SOURCES = source data Makefile make.bat
-
 if "%1" == "" goto help
 
 if "%1" == "help" (
@@ -89,13 +87,24 @@ if "%1" == "gh-pages" (
     RD /S /Q build
     RD /S /Q _sources
     RD /S /Q _static
-    git checkout master %GH_PAGES_SOURCES%
+    git checkout master data source docs make.bat Makefile
     git reset HEAD
     make html
-    MOVE build\html\*.*
-    RD /S /Q %GH_PAGES_SOURCES% build
+    # Ensure that images are rendered properly by building again
+    make html
+    MOVE /Y docs\*.*
+    MOVE /Y docs\_images
+    MOVE /Y docs\_static
+    MOVE /Y docs\_sources
+    RD /S /Q docs
+    RD /S /Q data
+    DEL make.bat
+    DEL Makefile
+    DEL *.png
     git add -A
-    git ci -m "Generated gh-pages for `git log master -1 --pretty=short --abbrev-commit`" && git push origin gh-pages ; git checkout master
+    git commit -m "Generated gh-pages for `git log master -1 --pretty=short --abbrev-commit`"
+    git push origin gh-pages
+    git checkout master
 )
 
 if "%1" == "dirhtml" (
