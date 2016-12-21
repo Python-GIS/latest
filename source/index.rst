@@ -49,8 +49,14 @@ Welcome to Python-GIS pages!
 
 .. admonition:: Use as you wish but share it!
 
-    If you would like to use these materials for your own purposes such as teaching or develop them further, we highly support that.
+    If you would like to use these materials for your own purposes such as teaching, we highly support that.
     Please read more about how to do it from `here <License-terms.html>`_.
+
+.. admonition:: Share your knowledge and help us!
+
+   If you would like to share your knowledge and contribute to these pages, we warmly welcome you to do so! If you have materials ready, we can help you out converting those into
+   Sphinx (.rst) pages that are used for documentation of this site.
+
 
 Contents
 --------
